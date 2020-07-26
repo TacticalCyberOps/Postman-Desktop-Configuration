@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=Testing; API; Utility;
+Comment[en_GB]=Postman
+Comment=Postman
+Encoding=UTF-8
+Exec=/usr/bin/Postman
+GenericName[en_GB]=Postman
+GenericName=Postman
+Icon=/etc/Postman/postman_ico.png
+MimeType=
+Name[en_GB]=Postman
+Name=Postman
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-RunOnDiscreteGpu=false
+X-KDE-SubstituteUID=false
+X-KDE-Username=
